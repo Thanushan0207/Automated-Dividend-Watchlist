@@ -8,7 +8,8 @@ Steps:
 4. For "Open CMD session" make sure the working dirctory is the downloaded folder.
 5. For "Write to CMD session" make sure you write "python Dividend_Watchlist.py".
 6. If you want to add tickers you can open the python file in any code editor and add the tickers.
-7. Now you are all set and ready to run the flow!!
+7. Make sure you open the python file and install the necessary libraries to make this script run.
+8. Now you are all set and ready to run the flow!!
 
 Video of Code in Action:
 
